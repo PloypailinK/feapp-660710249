@@ -5,7 +5,7 @@ import About from './pages/About';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import MovieDetail from './pages/MovieDetail';  
-import NotFound from './pages/NotFound';  
+
 
 
 
